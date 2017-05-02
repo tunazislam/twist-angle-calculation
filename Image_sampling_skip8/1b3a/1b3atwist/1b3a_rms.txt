@@ -1,0 +1,2 @@
+          pdbID       Avg_Dist    best #strds         #strds           RMSD            #CA_in_calculation      total_#CA            total_#pseudo            set_index
+Z:\Spring 2017\Graphs in Bioinformatics\Project\ISBRA2017\1b3a\1b3a            nan              4              0            nan                             0              0                       17            trans_0_rot_0

@@ -1,0 +1,2 @@
+          pdbID    fitting Err            best-set    best #strds         #strds          2-way       best #AA            #AA         top-twist #strds          2-way        top #AA
+Z:\Spring 2017\Graphs in Bioinformatics\Project\ISBRA2017\1d5t\1d5t        2.35376   trans_2_orient_100              6              0            nan              0              0                        8            nan              0
