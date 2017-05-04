@@ -39,4 +39,4 @@
 6) Output file will be generated in current directory as a name of "twist_angles.txt"
 	Inside output files you can see the details of twist angles.
 	for example: twist angle between two neighbouring strands, avg. twist angles between two neighbouring strands,
-	as well as avg. twist angles of 2 longest strands
+	as well as avg. twist angles of 2 longest strands.
